@@ -1,0 +1,6 @@
+framework module DynamicTencentOpenApi {
+  umbrella header "DynamicTencentOpenApi.h"
+
+  export *
+  module * { export * }
+}
